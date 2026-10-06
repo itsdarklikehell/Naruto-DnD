@@ -49,6 +49,14 @@ The rules provide a framework, but the **DM and players ultimately decide what w
 
 ---
 
+## Features
+
+- **Character Creator**: Create and manage shinobi characters with ability scores, chakra reserves, and custom jutsu
+- **Light/Dark Mode**: Toggle between light and dark themes with system preference detection
+- **PWA Support**: Install as a Progressive Web App for offline access
+- **Export/Import**: Backup and restore characters as JSON files
+- **Responsive Design**: Works on desktop, tablet, and mobile devices
+
 ## Combat
 
 Combat uses **skill-based rolls** rather than traditional D&D attack rolls, Armor Class, and Hit Points.

@@ -1,0 +1,25 @@
+
+{
+  "name": "Naruto D&D Character Creator",
+  "short_name": "Naruto-DnD",
+  "description": "A fan-made tabletop RPG system inspired by Naruto and D&D-style tabletop games",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1517",
+  "theme_color": "#0d1517",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["entertainment", "games"],
+  "lang": "en"
+}
